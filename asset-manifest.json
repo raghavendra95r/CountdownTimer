@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/CountdownTimer/static/css/main.4aeba4f7.chunk.css",
+    "main.js": "/CountdownTimer/static/js/main.1394a6ee.chunk.js",
+    "main.js.map": "/CountdownTimer/static/js/main.1394a6ee.chunk.js.map",
+    "runtime-main.js": "/CountdownTimer/static/js/runtime-main.8f197cac.js",
+    "runtime-main.js.map": "/CountdownTimer/static/js/runtime-main.8f197cac.js.map",
+    "static/js/2.fc7e5e51.chunk.js": "/CountdownTimer/static/js/2.fc7e5e51.chunk.js",
+    "static/js/2.fc7e5e51.chunk.js.map": "/CountdownTimer/static/js/2.fc7e5e51.chunk.js.map",
+    "static/js/3.4e196185.chunk.js": "/CountdownTimer/static/js/3.4e196185.chunk.js",
+    "static/js/3.4e196185.chunk.js.map": "/CountdownTimer/static/js/3.4e196185.chunk.js.map",
+    "index.html": "/CountdownTimer/index.html",
+    "static/css/main.4aeba4f7.chunk.css.map": "/CountdownTimer/static/css/main.4aeba4f7.chunk.css.map",
+    "static/js/2.fc7e5e51.chunk.js.LICENSE.txt": "/CountdownTimer/static/js/2.fc7e5e51.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8f197cac.js",
+    "static/js/2.fc7e5e51.chunk.js",
+    "static/css/main.4aeba4f7.chunk.css",
+    "static/js/main.1394a6ee.chunk.js"
+  ]
+}
