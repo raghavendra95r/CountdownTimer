@@ -1,0 +1,10 @@
+input{
+    padding: 10px 60px  ;
+    /* margin: 25px 25px 0px 25px ; */
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    border-radius: 2px;
+    border-color: grey;
+    background-color: rgb(166, 166, 180);
+    
+}

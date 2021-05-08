@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+  
+}
+
+div{
+ margin-top: 70px;
+
+}
+h1{
+  font-size: 100;
+  color: #2e80a7;
+  font-weight: bolder;
+  font-family: monospace;
+
+}
+.fa{
+  font-size:xx-large;
+  color: #2e80a7;
+  font-weight: bold;
+  font-family: monospace;
+  text-align: center;
+  
+
+}
+.time{
+  margin: auto;
+}
+.particles{
+  position: fixed;
+  top:0;
+  bottom: 0;
+  left: 0;
+  right:0;
+  z-index: -1;
+}
