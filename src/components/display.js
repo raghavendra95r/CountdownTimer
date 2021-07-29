@@ -11,7 +11,6 @@ const Timer = ({days, hours,minutes,seconds}) => {
             <div className="fa timer shadow-5 rounded-2 Tilt-inner">
                  <span>{days} Days : {hours} Hours : {minutes} Minutes : {seconds} Seconds </span>
              </div>
-                                    {/* <div className="Tilt-inner"> 👽 </div> */}
         </Tilt>
        
     );

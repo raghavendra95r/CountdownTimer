@@ -12,9 +12,16 @@ background-size: 20px 20px;
 width: 50rem;
 height: 100px;
 display: flex;
-margin-left: 370px;
+justify-content: center;
+
+margin-left: 330px;
 margin-top: 60px;
 padding-left: 100px;
 padding-top: 25px;
 
+}
+.Tilt{
+    display: flex;
+    margin:10px;
+    margin-left: 100px;
 }

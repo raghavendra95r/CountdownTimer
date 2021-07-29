@@ -2,9 +2,9 @@ import React from 'react';
 import './input.css';
 
 
-const Input = ({getInput, value}) => {
+const Input = ({ entereddate, value}) => {
     return(
-        <input className="rounded .shadow-5"  type="date"  onChange={getInput} value={value}/> 
+        <input className="rounded .shadow-5"  type="date"  onChange={ entereddate} value={value}/> 
     )
 }
 export default Input;
